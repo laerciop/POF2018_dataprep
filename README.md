@@ -35,7 +35,6 @@ POF2018_dataprep is a python script that downloads POF files and build the table
 
 Python 3.7 basic libraries with the following installed packages:
 
-Package           Version
------------------ -------
-pandas            0.25.3
-xlrd              1.2.0
+Package/Version
+pandas/0.25.3
+xlrd/1.2.0
