@@ -21,13 +21,14 @@ POF2018_dataprep is a python script that downloads POF files and build the table
 		python POF2018_dataprep [survey name]
 		
 	Where the survey name should be:
-		aluguel: Aluguel Estimado (estimated rent)
-		caderneta: Caderneta Coletiva (household annotations)
-  	d_coletiva: Despesa Coletiva (household expenses)
-  	d_individual: Despesa Individual (indicidual expenses)
-  	morador: Dados Morador (residents data)
-  	outros_r: Outros Rendimentos (another revenue source)
-  	rendimento_t: Rendimento do Trabalho (work revenue)
+	
+	- aluguel: Aluguel Estimado (estimated rent)
+	- caderneta: Caderneta Coletiva (household annotations)
+  	- d_coletiva: Despesa Coletiva (household expenses)
+  	- d_individual: Despesa Individual (indicidual expenses)
+  	- morador: Dados Morador (residents data)
+  	- outros_r: Outros Rendimentos (another revenue source)
+  	- rendimento_t: Rendimento do Trabalho (work revenue)
 	
 	
 #### Requirements
